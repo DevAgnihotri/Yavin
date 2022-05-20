@@ -1,0 +1,73 @@
+/*-----------------
+* 
+------------------*/
+::-webkit-scrollbar{
+    width: 4px;
+    color:#03fff7;
+}
+::-webkit-scrollbar-thumb {
+    background: #03fff7; 
+    border-radius: 4px;
+    width: 4px;
+  }
+  #breaker{
+      background-color: #03fff7;
+  }
+  .color{
+      color: #03fff7;
+  }
+  #about-content a{
+      color:#03fff7 ;
+  }
+  .cv a button{
+      background: #03fff7;
+  }
+  .service-img img{
+    background: #03fff7;
+    box-shadow:0px 0px 0px 0px #03fff7 ;
+  }
+  .service:hover .service-img img{
+    box-shadow:0px 0px 0px 400px #03fff7 ;
+}
+.html-progress{
+    background: #03fff7;
+}
+.js-progress{
+    background: #03fff7;
+}
+.adobe-progress{
+    background: #03fff7;
+}
+.php-progress{
+    background: #03fff7;
+}
+.jquery-progress{
+    background: #03fff7;
+}
+.seo-progress{
+    background: #03fff7;
+}
+.portfolio-text h2{
+    color: #03fff7;
+}
+.portfolio-text button{
+    color: #03fff7;
+    border: 1.5px solid #03fff7;
+}
+.portfolio-text button::before{
+    background: #03fff7;
+}
+.portfolio-image img::before{
+    background: #03fff7;
+}
+.blog-date{
+    background: #03fff7;
+}
+form button{
+    background: #03fff7;
+}
+@media all and (max-width: 550px) and (min-width: 5px){
+    .service:hover .service-img img{
+        box-shadow:0px 0px 0px 0px #c70039 ;
+    }
+}

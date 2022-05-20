@@ -1,0 +1,73 @@
+/*-----------------
+*
+------------------*/
+::-webkit-scrollbar{
+    width: 4px;
+    color:#c70000;
+}
+::-webkit-scrollbar-thumb {
+    background: #c70000; 
+    border-radius: 4px;
+    width: 4px;
+  }
+  #breaker{
+      background-color: #c70000;
+  }
+  .color{
+      color: #c70000;
+  }
+  #about-content a{
+      color:#c70000 ;
+  }
+  .cv a button{
+      background: #c70000;
+  }
+  .service-img img{
+    background: #c70000;
+    box-shadow:0px 0px 0px 0px #c70000 ;
+  }
+  .service:hover .service-img img{
+    box-shadow:0px 0px 0px 400px #c70000 ;
+}
+.html-progress{
+    background: #c70000;
+}
+.js-progress{
+    background: #c70000;
+}
+.adobe-progress{
+    background: #c70000;
+}
+.php-progress{
+    background: #c70000;
+}
+.jquery-progress{
+    background: #c70000;
+}
+.seo-progress{
+    background: #c70000;
+}
+.portfolio-text h2{
+    color: #c70000;
+}
+.portfolio-text button{
+    color: #c70000;
+    border: 1.5px solid #c70000;
+}
+.portfolio-text button::before{
+    background: #c70000;
+}
+.portfolio-image img::before{
+    background: #c70000;
+}
+.blog-date{
+    background: #c70000;
+}
+form button{
+    background: #c70000;
+}
+@media all and (max-width: 550px) and (min-width: 5px){
+    .service:hover .service-img img{
+        box-shadow:0px 0px 0px 0px #c70000 ;
+    }
+}
